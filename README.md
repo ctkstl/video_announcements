@@ -19,4 +19,20 @@ There are two software components that are needed to produce the live videos.
 *   [Audacity](http://www.audacityteam.org/) - This is an audio editor, if there is ever stand-alone audio that needs to be edited.
 
 
+## Copyright
 
+Because videos will be streamed through YouTube, it is important that all content we put into the video respects the author's copyright (this is especially important as YouTube has automatic recognition software that can take down our stream if it detects it). For any video that we are creating, we own the copyright and there is no issue. However for any pieces that we add in: external videos, graphics, audio, etc we need to be sure that we have a license to use it. 
+
+The way to ensure that we have a license is to be careful about the source of the media. In general any media we use should have a "Creative Commons" license or be under the public domain. There are many sources of this media on the internet, including:
+
+*   [OpenClipArt](https://openclipart.org/) - This has lots of graphics that can be imported into Inkscape.
+*   [ccMixter](http://ccmixter.org/) - Music for mixing in to other media (like videos).
+*   [PodSafeAudio](http://www.podsafeaudio.com/) - Audio designed to be used in podcasts, but could be useful for video as well.
+*   [Free Music Archive](http://freemusicarchive.org/) - Lots of good free music, sometimes under creative commons licenses.
+*   [Flickr Creative Commons](https://www.flickr.com/creativecommons/) - Photos from flickr that have creative commons licenses.
+*   [PEXELS Video](https://videos.pexels.com/video-license) - Videos under the Creative Commons "Zero" license. Clips for use in other videos.
+*   [Vimeo Creative Commons](https://vimeo.com/creativecommons) - Videos from Vimeo that have creative commons licenses.
+*   YouTube - YouTube has many creative commons licensed videos, but there isn't an easy way to list them. Instead do a search for something, then select the filters and under the features section select "Creative Commons" then your results will all be creative commons licensed.
+*   [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - 36 Million files (audio, video, photos, graphics) under creative commons or public domain licenses. 
+
+*   [Creative Commons List](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/) - A list of places you can get creative commons music for use in videos.
