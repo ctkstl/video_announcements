@@ -9,8 +9,8 @@ The YouTube channel we are using for announcements is unlisted, please do not po
 ## Setup
 There are two software components that are needed to produce the live videos. 
 
-*   [Open Broadcast Software](https://obsproject.com/) - This is use for controlling the scene, encoding the video, and uploading it to youtube. 
-*   [Inkscape](https://inkscape.org/en/) - This is a general drawing program, we will be using it for creating graphics that will be displayed in the video, or overlaid on live video.
+*   [Inkscape](https://inkscape.org/en/) - This is a general drawing program, we will be using it for creating graphics that will be displayed in the video, or overlaid on live video. [Video](https://www.youtube.com/watch?v=c8mR7t0shIA) covering some of the basics to use this.
+*   [Open Broadcast Software](https://obsproject.com/) - This is use for controlling the scene, encoding the video, and uploading it to youtube. [Video](https://www.youtube.com/watch?v=TyHKcVC1rro) covering some of the basics to use this.
 
 ###Additional software
 
