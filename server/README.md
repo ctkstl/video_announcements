@@ -20,9 +20,11 @@ Once Nginx was installed, I added the [nginx.conf](nginx.conf) file to `/usr/loc
 
 Web based player
 ----------------
+To setup a webpage that teachers can use to view the stream, one was created in the nginx web root directory (`/usr/local/nignx/html`), [index.html](index.html). This file was based on the example [video.js/VideoJS HLS page](https://videojs.github.io/videojs-contrib-hls/). It has two dependencies that it needs to work: the [video.js](http://videojs.com/) player and the [VideoJS HLS plugin](https://github.com/videojs/videojs-contrib-hls). 
 
+Specifically, we downloaded video.js [v5.17.0](https://github.com/videojs/video.js/releases/download/v5.17.0/video-js-5.17.0.zip) and VideoJS HLS Plugin [v5.2.1](https://github.com/videojs/videojs-contrib-hls/releases/download/v5.2.1/videojs-contrib-hls.js). These were extracted to the `/usr/local/nginx/html/vjs` and `/usr/local/nginx/html/vhlsjs` respectively.
 
-
+Once the web player was in place, users could simply go to [http://news.lan/](http://news.lan/) and see the player. Clicking the play button will start the stream if it is already running.
 
 
 
